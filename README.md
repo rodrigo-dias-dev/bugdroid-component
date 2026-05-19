@@ -49,20 +49,6 @@ Durante o desenvolvimento, o foco principal foi compreender melhor:
 
 ---
 
-## 📸 Screenshot
-
-```md
-Adicione aqui a screenshot do projeto.
-```
-
-Exemplo:
-
-```md
-![](./assets/media/screenshot-mobile.png)
-```
-
----
-
 ## 🔗 Links
 
 - Repositório: [GitHub Repository](#)
@@ -159,6 +145,13 @@ bugdroid-project/
 ├── index.html
 └── README.md
 ```
+
+---
+
+## 🔗 Links
+
+- Repositório: [GitHub Repository](https://github.com/rodrigo-dias-dev/bugdroid-component)
+- Live Site: [Visualizar Projeto](https://rodrigo-dias-dev.github.io/bugdroid-component/)
 
 ---
 
