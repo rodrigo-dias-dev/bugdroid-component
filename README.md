@@ -2,6 +2,8 @@
 
 ## 📸 Preview
 
+Versões mobile e desktop do projeto:
+
 <p align="center">
   <img src="./assets/media/preview-mobile.png" width="250" alt="Versão Mobile">
   <img src="./assets/media/preview-desktop.png" width="600" alt="Versão Desktop">
@@ -10,6 +12,7 @@
 Projeto desenvolvido a partir do **Desafio 10** do Curso em Vídeo, com foco na construção de uma página responsiva inspirada no mascote do Android utilizando HTML5 e CSS3.
 
 Além da reprodução visual do desafio, o projeto também busca aprofundar conceitos de:
+
 - arquitetura HTML semântica;
 - responsividade mobile-first;
 - composição de layout;
@@ -19,10 +22,9 @@ Além da reprodução visual do desafio, o projeto também busca aprofundar conc
 
 ---
 
-## 📚 Table of Contents
+# 📚 Table of Contents
 
 - [Overview](#-overview)
-- [Screenshot](#-screenshot)
 - [Links](#-links)
 - [My Process](#-my-process)
   - [Built With](#-built-with)
@@ -35,11 +37,12 @@ Além da reprodução visual do desafio, o projeto também busca aprofundar conc
 
 ---
 
-## 🚀 Overview
+# 🚀 Overview
 
 Este projeto recria uma página temática sobre o mascote do Android (Bugdroid), utilizando HTML5 e CSS3 com abordagem mobile-first.
 
 Durante o desenvolvimento, o foco principal foi compreender melhor:
+
 - Flexbox;
 - composição de containers;
 - largura de leitura;
@@ -49,10 +52,10 @@ Durante o desenvolvimento, o foco principal foi compreender melhor:
 
 ---
 
-## 🔗 Links
+# 🔗 Links
 
-- Repositório: [GitHub Repository](#)
-- Live Site: [Visualizar Projeto](#)
+- Repositório: [GitHub Repository](https://github.com/rodrigo-dias-dev/bugdroid-component)
+- Live Site: [Visualizar Projeto](https://rodrigo-dias-dev.github.io/bugdroid-component/)
 
 ---
 
@@ -72,7 +75,26 @@ Durante o desenvolvimento, o foco principal foi compreender melhor:
 
 ## 🧠 What I Learned
 
-Durante este projeto aprofundei principalmente:
+Este é o início da documentação do meu processo de aprendizado.
+
+Até aqui, este foi o desafio mais interessante e construtivo que desenvolvi. Durante o projeto tive vários insights importantes e uma verdadeira virada de chave quando comecei a entender melhor o funcionamento do Box Model. Depois disso, muitas coisas passaram a se encaixar de forma mais natural.
+
+Alguns conceitos que comecei a absorver melhor durante este desafio:
+
+- Box Model
+- Flexbox
+- Composição de Layout
+- Responsabilidade estrutural dos containers
+- Mobile First
+- Media Queries
+- Hierarquia visual
+- Espaçamento e distribuição de elementos
+- Tipografia responsiva
+- Organização e arquitetura de CSS
+
+Outra ferramenta que mudou bastante minha forma de estudar foi o DevTools. Aprender a inspecionar elementos, testar ajustes em tempo real e entender o comportamento visual do layout tornou o processo muito mais claro e intuitivo.
+
+Além disso, durante este projeto aprofundei principalmente:
 
 - separação entre layout estrutural e composição textual;
 - organização de containers;
@@ -90,13 +112,13 @@ Durante este projeto aprofundei principalmente:
 }
 ```
 
-Essa abordagem permitiu criar um bloco textual mais fluido e confortável para leitura em dispositivos móveis.
-
+---
 ---
 
 ## 📈 Continued Development
 
 Pretendo continuar evoluindo:
+
 - responsividade desktop;
 - arquitetura semântica do conteúdo principal;
 - componentização visual;
@@ -109,6 +131,7 @@ Pretendo continuar evoluindo:
 ## 🤖 AI Collaboration
 
 Durante o desenvolvimento utilizei IA como suporte para:
+
 - debugging visual;
 - análise arquitetural;
 - refinamento responsivo;
@@ -116,6 +139,7 @@ Durante o desenvolvimento utilizei IA como suporte para:
 - reflexão sobre responsabilidades entre containers e componentes.
 
 As discussões sobre:
+
 - Flexbox;
 - largura de leitura;
 - composição textual;
@@ -140,18 +164,12 @@ bugdroid-project/
 │   │
 │   └── media/
 │       ├── favicon.ico
-│       └── preview.png
+│       ├── preview-mobile.png
+│       └── preview-desktop.png
 │
 ├── index.html
 └── README.md
 ```
-
----
-
-## 🔗 Links
-
-- Repositório: [GitHub Repository](https://github.com/rodrigo-dias-dev/bugdroid-component)
-- Live Site: [Visualizar Projeto](https://rodrigo-dias-dev.github.io/bugdroid-component/)
 
 ---
 
