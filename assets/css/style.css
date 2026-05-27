@@ -37,7 +37,7 @@
 --color-title-dark: #1A5C38;
 
 --color-link-default: rgb(231, 227, 227);
---color-link-hover: rgb(177, 223, 177);
+--color-link-hover: rgb(58, 167, 58);
 
 --color-border-dark: #020202;
 
@@ -148,17 +148,14 @@ padding-bottom: 0.8rem;
 /* ==========================================================================
 6. COMPONENTES: NAVEGAÇÃO
 ========================================================================== */
-
-.navbar {
-padding-bottom: 0.2rem;
-}
-
 .navbar-menu {
 display: flex;
 width: 100%;
 justify-content: center;
 gap: var(--spacing-sm);
 flex-wrap: wrap;
+background-color: rgba(0, 0, 0, 0.384);
+padding: 0.2rem;
 }
 
 .navbar li {
@@ -366,6 +363,8 @@ font-family: var(--font-family-text);
 .navbar-menu {
     justify-content: flex-start;
     gap: 1.2rem;
+    background-color: transparent;
+    
 }
 
 .navbar a {

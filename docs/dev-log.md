@@ -347,3 +347,12 @@ A mente deve:
 * pensar arquitetura.
 
 Não armazenar pendências.
+
+## Ajuste fino no nav-menu
+
+**23/05/2026**
+
+* Foi adicionado `padding` diretamente no `.navbar-menu`.
+* O `padding` anterior da `.navbar` foi removido.
+* A alteração reduz responsabilidades estruturais da `.navbar` e torna o `.navbar-menu` mais independente e flexível.
+* Também foi adicionado um background preto com transparência para melhorar o contraste visual da navegação sobre o gradiente do header.
